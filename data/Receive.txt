@@ -1,0 +1,2 @@
+LStruck1_Truck 28_0_Large Truck,Dang_123,19/11/2022,12
+SStruck1_Truck 35_0_Small Truck,Hong_456,19/11/2022,23

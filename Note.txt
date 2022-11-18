@@ -1,0 +1,37 @@
+
+
+////////////////////////////////////////////////////////////////
+
+A-Đặt xe
+Loại_Chi tiết_Ngày đặt_Thời gian đặt_Ten khách hàng_Số điện thoại
+
+B-Huỷ đặt xe
+Số điện thoại_Ngày đặt
+
+C-Cho thuê cho người đặt trước
+Số điện thoại_Ngày hiện tại
+
+D-Trả xe
+Số điện thoại_Ngày hiện tại
+
+E-xem danh sách đặt trước theo ngày hiện tại
+
+F-Xem tất cả xe thuê 
+Loại_Chi tiết_Ngày thuê_Giá thuê_tên khách hàng_số điện thoại
+
+G-Xem thu nhập
+Xuất thông tin cho thuê xe theo tháng theo thứ tự ngày trả_Thu nhập
+
+H-
+
+
+ECar_Ecar1_Car 1_500_7
+ECar_Ecar2_Car 2_900_10
+SCar_SCar1_Car 3_1800_4
+SCar_SCar2_Car 4_2000_5
+SCar_SCar3_Car 5_1100_6
+PCar_PCar1_Car 6_2500_15
+PCar_PCar2_Car 7_3000_20
+PCar_PCar3_Car 8_2100_13
+LCar_LCar1_Car 9_3200_10
+
